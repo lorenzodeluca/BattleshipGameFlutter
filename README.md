@@ -4,7 +4,7 @@
 
 ANDROID/Flutter: Classic sea battle game with Wifi capability, original code made by me in 2020
 
-Punti principali: `Model MVC,  Database(floor), Socket http, Api, Animazioni, Layout portait/landscape, SnackBar` e altro
+Punti principali: `Model MVC,  Wifi,  Animazioni` e altro
 
 ### Prerequisiti
 
